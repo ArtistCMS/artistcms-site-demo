@@ -1,0 +1,33 @@
+{
+  "template": ["navigation", "logo", "bio", "releases", "socials"],
+  "css": {
+    "--primary-color": "#1a1a1a",
+    "--secondary-color": "#ffffff",
+    "--tertiary-color": "#ff6b6b",
+    "--quaternary-color": "#f0f0f0",
+    "--text-color": "#1a1a1a",
+    "--logo-width": "200px"
+  },
+  "head": {
+    "title": "Demo Artist - ArtistCMS",
+    "description": "Demo musician site built with ArtistCMS",
+    "keywords": "musician, demo, artistcms",
+    "google_analytics": ""
+  },
+  "app": {
+    "logo": "https://via.placeholder.com/200x200/333/fff?text=DEMO",
+    "bio": {
+      "name": "Demo Artist",
+      "genre": "Electronic / Experimental",
+      "about": "This is a demo site showcasing ArtistCMS capabilities.\n\nArtistCMS makes it easy for musicians to create beautiful, professional websites."
+    },
+    "releases": [
+      "https://soundcloud.com/discover"
+    ],
+    "socials": {
+      "soundcloud": "https://soundcloud.com",
+      "spotify": "https://spotify.com",
+      "instagram": "https://instagram.com"
+    }
+  }
+}

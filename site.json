@@ -15,7 +15,7 @@
     "google_analytics": ""
   },
   "app": {
-    "logo": "https://via.placeholder.com/200x200/333/fff?text=DEMO",
+    "logo": "https://artistcms-shared.artistcms.workers.dev/demo/images/logo.png",
     "bio": {
       "name": "Demo Artist",
       "genre": "Electronic / Experimental",

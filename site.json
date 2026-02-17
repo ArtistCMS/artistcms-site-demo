@@ -13,7 +13,10 @@
     "--tertiary-color": "#ff6b6b",
     "--quaternary-color": "#f0f0f0",
     "--text-color": "#1a1a1a",
-    "--logo-width": "200px"
+    "--logo-width": "200px",
+    "backgroundImage": "images/background.jpg",
+    "backgroundPosition": "center top",
+    "backgroundSize": "contain"
   },
   "head": {
     "title": "Demo Artist - ArtistCMS",

@@ -4,7 +4,8 @@
     "logo",
     "bio",
     "releases",
-    "socials"
+    "socials",
+    "gallery"
   ],
   "css": {
     "--primary-color": "#1a1a1a",
@@ -25,7 +26,7 @@
     "bio": {
       "name": "Demo Artist",
       "genre": "Electronic / Experimental",
-      "about": "This is a demo site showcasing ArtistCMS capabilities.\n\nArtistCMS makes it easy for musicians to create beautiful, professional websites. test2"
+      "about": "This is a demo site showcasing ArtistCMS capabilities.\n\nArtistCMS makes it easy for musicians to create beautiful, professional websites."
     },
     "releases": [
       "https://suno.com/s/JVrKN5B8QnJKaGD2",
@@ -37,6 +38,12 @@
       "soundcloud": "https://soundcloud.com",
       "spotify": "https://spotify.com",
       "instagram": "https://instagram.com"
+    },
+    "gallery": {
+      "0": {
+        "caption": "Image Upload #1"
+      },
+      "images/gallery/1771358636240.jpg": "New image"
     }
   }
 }

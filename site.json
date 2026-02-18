@@ -43,6 +43,18 @@
       "spotify": "https://spotify.com",
       "instagram": "https://instagram.com"
     },
-    "gallery": {}
+    "gallery": {
+      "0": {
+        "path": "images/gallery/1771375498506.jpg",
+        "caption": "Avatar",
+        "order": 0
+      },
+      "1": {
+        "path": "images/gallery/1771375514033.jpg",
+        "caption": "Album",
+        "order": 1
+      }
+    },
+    "": "Album"
   }
 }

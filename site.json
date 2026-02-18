@@ -47,7 +47,17 @@
       "0": {
         "caption": "Image Upload 1"
       },
-      "images/gallery/1771358636240.jpg": "New image"
-    }
+      "1": {
+        "path": "images/gallery/1771375223974.jpg",
+        "caption": "Avatar",
+        "order": 1
+      },
+      "images/gallery/1771358636240.jpg": {
+        "path": "images/gallery/1771358636240.jpg",
+        "caption": "Paled Perspective",
+        "order": 2
+      }
+    },
+    "": "Paled Perspective"
   }
 }

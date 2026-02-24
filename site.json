@@ -5,7 +5,8 @@
     "bio",
     "releases",
     "socials",
-    "gallery"
+    "gallery",
+    "header"
   ],
   "css": {
     "--primary-color": "#1a1a1a",

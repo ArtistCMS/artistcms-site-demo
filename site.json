@@ -1,12 +1,11 @@
 {
   "template": [
     "navigation",
-    "logo",
+    "header",
     "bio",
     "releases",
-    "socials",
     "gallery",
-    "header"
+    "socials"
   ],
   "css": {
     "--primary-color": "#1a1a1a",
@@ -14,7 +13,7 @@
     "--tertiary-color": "#ff6b6b",
     "--quaternary-color": "#f0f0f0",
     "--text-color": "#1a1a1a",
-    "--logo-width": "70%",
+    "--logo-width": "80%",
     "backgroundImage": "images/background.jpg",
     "backgroundPosition": "center center",
     "backgroundSize": "auto"

@@ -15,8 +15,8 @@
     "--text-color": "#1a1a1a",
     "--logo-width": "200px",
     "backgroundImage": "images/background.jpg",
-    "backgroundPosition": "center top",
-    "backgroundSize": "cover"
+    "backgroundPosition": "center center",
+    "backgroundSize": "auto"
   },
   "head": {
     "title": "Demo Artist - ArtistCMS",

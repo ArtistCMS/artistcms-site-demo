@@ -14,7 +14,7 @@
     "--tertiary-color": "#ff6b6b",
     "--quaternary-color": "#f0f0f0",
     "--text-color": "#1a1a1a",
-    "--logo-width": "50%",
+    "--logo-width": "70%",
     "backgroundImage": "images/background.jpg",
     "backgroundPosition": "center center",
     "backgroundSize": "auto"
